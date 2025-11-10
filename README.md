@@ -1,4 +1,4 @@
-# CS50x - Week 9: Flask, SQL, and Web Applications
+# CS50x - Week 9: Flask
 
 This repo contains my solutions for **Week 9** of Harvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) course. The focus this week was on building **dynamic web applications** using Python, Flask, and SQLite, integrating HTML templates, sessions, and SQL databases.
 
